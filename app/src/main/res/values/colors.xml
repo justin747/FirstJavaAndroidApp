@@ -14,4 +14,7 @@
 
     <color name="dubs_blue">#1D428A</color>
     <color name="dubs_yellow">#FFC72C</color>
-</resources>
+
+    <color name="seahawks_blue">#002244</color>
+    <color name="seahawks_grey">#A5ACAF</color>
+    <color name="seahawks_green">#69BE28</color>
